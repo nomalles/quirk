@@ -558,6 +558,21 @@ a:active {
   overflow-x:hidden;
   overflow-y:scroll;
 }
+.project13{
+  width: 740px;
+  height: 90%;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  border-radius: 30px;
+  background-color: white;
+  margin: auto;
+  position: fixed;
+  top: 0; left: 0; bottom: 0; right: 0;
+  cursor: url(cursor.png) 25 15, auto;
+  overflow-x:hidden;
+  overflow-y:scroll;
+}
 
 .project-pic1 {
   margin: 43px;
