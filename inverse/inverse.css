@@ -5,7 +5,6 @@
 
 html {
   cursor: url(cursor.png) 25 15, auto;
-  zoom:75%;
 }
 
 body {
@@ -14,7 +13,6 @@ body {
   margin: auto;
   cursor: url(cursor.png) 25 15, auto;
   background-color: #3333ff;
-  zoom:75%;
   /*overflow-y: : hidden;*/
 }
 
