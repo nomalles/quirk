@@ -23,6 +23,15 @@ $(document).ready(function() {
       $('.blog2').toggle();
   });
 
+  $(".x000").click(function(){
+      $('.gifs').toggle();
+      $('.gifs2').toggle();
+  });
+  $(".gifs2").click(function(){
+      $('.gifs').toggle();
+      $('.gifs2').toggle();
+  });
+
   $(".logo").click(function(){
       $('#container').show();
       $('#work').hide();
