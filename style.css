@@ -114,10 +114,10 @@ a:visited {
   font-family: Opensans, 'Open Sans', sans-serif;
   font-size: 15px;
   font-weight: 600;
-  min-height: 200px;
+  min-height: 300px;
   min-width: 300px;
   max-width: 500px;
-  max-height: 400px;
+  max-height: 500px;
   width: 50%;
   height: 70%;
   border-style: solid;
