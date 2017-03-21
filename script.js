@@ -16,7 +16,6 @@ $(document).ready(function () {
 
 
 
-
 var $allVideos = $("iframe[src^='//player.vimeo.com'], iframe[src^='//www.youtube.com']"),
 
 

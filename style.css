@@ -20,6 +20,12 @@ body {
     src: url(OpenSansRegular.ttf);
 }
 
+#overlay    {  background:rgb(0,0,250);}
+#overlay:hover img { opacity: 0.3;
+      background-color: rgba(0, 0, 255, 0.3);
+      -webkit-transition: .25s ease;
+  -moz-transition:  .25s ease;}
+
 /*.no-js #loader { display: none;  }
 .js #loader { display: block; position: absolute; left: 100px; top: 0; }
 .loader {
@@ -45,6 +51,7 @@ body {
   z-index: 100;
   font-weight: 600;
 }
+
 
 a{
   color: blue;
